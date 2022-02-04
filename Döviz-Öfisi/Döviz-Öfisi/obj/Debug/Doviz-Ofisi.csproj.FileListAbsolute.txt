@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\bin\Debug\Döviz-Öfisi.exe.config
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\bin\Debug\Döviz-Öfisi.exe
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\bin\Debug\Döviz-Öfisi.pdb
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Doviz-Ofisi.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Döviz_Öfisi.Form1.resources
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Döviz_Öfisi.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Doviz-Ofisi.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Doviz-Ofisi.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Döviz-Öfisi.exe
+C:\Users\BUSE NUR\source\repos\Döviz-Öfisi\Döviz-Öfisi\obj\Debug\Döviz-Öfisi.pdb
